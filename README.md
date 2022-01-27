@@ -5,6 +5,5 @@ docker-compose contains:<br/>
 - nginx
 - prometheus-nginxlog-exporter
 
-run docker-compose<br/>
-
-<code>docker-compose up -d</code>
+run docker-compose:
+<pre>docker-compose up -d</pre>
